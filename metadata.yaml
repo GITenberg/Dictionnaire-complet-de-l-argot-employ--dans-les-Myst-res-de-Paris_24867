@@ -1,0 +1,30 @@
+_repo: Dictionnaire-complet-de-l-argot-employ--dans-les-Myst-res-de-Paris_24867
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2008-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24867'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Slang -- Dictionaries'
+- !lcc 'AG'
+- !lcc 'PC'
+title: Dictionnaire complet de l'argot employé dans les Mystères de Paris
+url: http://www.gutenberg.org/ebooks/24867
