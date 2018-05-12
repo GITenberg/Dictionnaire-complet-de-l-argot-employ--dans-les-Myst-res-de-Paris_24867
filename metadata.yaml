@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24867#Dictionnaire-complet-de-l-argot-employ--dans-les-Myst-res-de-Paris
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2008-03-18'
 gutenberg_type: Text
